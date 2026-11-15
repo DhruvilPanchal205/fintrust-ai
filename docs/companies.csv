@@ -1,0 +1,41 @@
+ticker,company_name,sector,starter,why_included
+AAPL,Apple,Technology,yes,Fiscal year ends in September
+MSFT,Microsoft,Technology,yes,Fiscal year ends in June
+AMZN,Amazon,Retail and e-commerce,yes,E-commerce plus cloud segments
+WMT,Walmart,Retail and e-commerce,yes,Fiscal year ends in January
+NKE,Nike,Consumer,yes,Fiscal year ends in May
+JPM,JPMorgan Chase,Banking,yes,Bank: no gross margin; also in CFPB complaints
+COF,Capital One,Banking,yes,Consumer lender; also in CFPB complaints
+V,Visa,Payments,yes,Fiscal year ends in September
+UNH,UnitedHealth Group,Healthcare,yes,Large healthcare company
+XOM,Exxon Mobil,Energy,yes,Commodity-driven revenue swings
+GOOGL,Alphabet,Technology,no,Advertising-driven revenue
+CRM,Salesforce,Technology,no,SaaS; fiscal year ends in January
+ADBE,Adobe,Technology,no,SaaS subscription revenue
+ORCL,Oracle,Technology,no,Fiscal year ends in May
+NVDA,NVIDIA,Technology,no,Very fast revenue growth
+BAC,Bank of America,Banking,no,Bank; also in CFPB complaints
+WFC,Wells Fargo,Banking,no,Bank; also in CFPB complaints
+C,Citigroup,Banking,no,Bank; also in CFPB complaints
+AXP,American Express,Banking,no,Card issuer; also in CFPB complaints
+GS,Goldman Sachs,Banking,no,Investment bank
+MA,Mastercard,Payments,no,Payments network
+PYPL,PayPal,Payments,no,Fintech; also in CFPB complaints
+TGT,Target,Retail and e-commerce,no,Fiscal year ends around January
+COST,Costco,Retail and e-commerce,no,Fiscal year ends around August
+HD,Home Depot,Retail and e-commerce,no,Fiscal year ends around January
+SBUX,Starbucks,Consumer,no,Fiscal year ends around September
+JNJ,Johnson & Johnson,Healthcare,no,Pharma and medtech segments
+PFE,Pfizer,Healthcare,no,Large revenue swings after 2022
+CVS,CVS Health,Healthcare,no,Retail pharmacy plus insurance
+CVX,Chevron,Energy,no,Second energy company for comparison
+CAT,Caterpillar,Industrials,no,Cyclical industrial
+BA,Boeing,Industrials,no,Losses in recent years
+HON,Honeywell,Industrials,no,Diversified industrial
+UPS,UPS,Industrials,no,Logistics
+PG,Procter & Gamble,Consumer,no,Fiscal year ends in June
+KO,Coca-Cola,Consumer,no,Stable consumer staple
+PEP,PepsiCo,Consumer,no,Beverages and snacks
+NFLX,Netflix,Media and telecom,no,Subscription revenue
+DIS,Disney,Media and telecom,no,Fiscal year ends around September
+VZ,Verizon,Media and telecom,no,Telecom

@@ -1,0 +1,5 @@
+requests
+pandas
+duckdb
+beautifulsoup4
+lxml
